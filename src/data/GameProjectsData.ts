@@ -272,15 +272,5 @@ export default [
             <br /><br />
             The repository can be found <a href="https://github.com/JonasBruylant/2048" target="_blank">here</a> in case you're interested.
         </div>
-            </div>`, "#5532f0"),
-
-
-        new ProjectData("Codename: Project P", "Project P WIP", "", `
-            <div class="paragraph">    
-                This is a project that is still a work in progress and is not yet available for display.
-                The game is being made in <strong>Unity 6</strong> using <strong>Github</strong> as source control and is being managed by me alone.<br/>
-                This means I'm in charge of everything, including the art as well. <br/>
-
-                The repository can be found <a href="https://github.com/JonasBruylant/Project_P" target="_blank">here</a> in case you're interested.
-            </div>`, "#ba34b1")
+            </div>`, "#5532f0")
 ];
